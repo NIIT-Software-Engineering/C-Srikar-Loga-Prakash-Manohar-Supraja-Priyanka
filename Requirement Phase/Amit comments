@@ -1,0 +1,5 @@
+use case diagram must go to feature section in functional req. sub section
+extend relationship must be replaced with generalization
+change the use cases   related to  reciever user( update it as per our discussion)
+change the feature section -include functional and non funcftional req. in that and in nect section only desirable non func. req. must come
+change the traceability matrix (secod) showing the relations among req elements and the various artefact ids.
